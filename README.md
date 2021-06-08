@@ -16,6 +16,6 @@ current balance etc. Transfers table will record all transfers happened.
 
 5. Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 
-Click this link to visit the Website:
+# Click this link to visit the Website:
 
 https://vigilant-meitner-a0b703.netlify.ap
