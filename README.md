@@ -18,4 +18,4 @@ current balance etc. Transfers table will record all transfers happened.
 
 # Click this link to visit the Website:
 
-https://vigilant-meitner-a0b703.netlify.ap
+https://vigilant-meitner-a0b703.netlify.app/
