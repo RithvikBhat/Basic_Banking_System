@@ -1,0 +1,90 @@
+/* Default */
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Quicksand', sans-serif;
+}
+
+body {
+	background: #000;
+	color: #fff;
+}
+
+/* Default */
+
+/* Main */
+
+section {
+	min-height: 100vh;
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.title {
+	font-size: 3rem;
+	margin: 1rem 0;
+}
+
+.faq {
+	max-width: 700px;
+	margin-top: 2rem;
+	padding-bottom: 1rem;
+	border-bottom: 2px solid #fff;
+	cursor: pointer;
+}
+
+.question {
+	display: flex;
+	/* Aligning the svg and the question */
+	justify-content: space-between;
+	align-items: center;
+}
+
+.question h3 {
+	font-size: 1.4rem;
+}
+
+.answer {
+	/* This is done to hide the answers */
+	max-height: 0;
+	overflow: hidden;
+	transition: max-height 1s ease;
+}
+
+.answer p {
+	padding-top: 0.5rem;
+	line-height: 1.6;
+	font-size: 1.2rem;
+}
+
+svg {
+	margin-bottom: 20px;
+}
+
+/* Main */
+
+/* Footer */
+
+footer p {
+	margin-bottom: 0;
+	text-align: center;
+}
+
+footer:hover {
+	background-color: #00D315;
+	color: #ffffff;
+	transition: 0.6s ease-in;
+}
+
+/* Footer */
+
+/* Javascript part thats why active class is used here .faq.active */
+
+.faq.active .answer {
+	max-height: 500px;
+}
