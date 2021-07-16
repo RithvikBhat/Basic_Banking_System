@@ -1,9 +1,4 @@
-This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
-  1. Internship Category - Web Development and Design
-  2. Internship Duration - 1 Month (June-2021)
-  3. Internship Type - Work from Home
- 
-# Task-1 : Basic Banking System 
+# [Basic Banking System](https://vigilant-meitner-a0b703.netlify.app/)
  
 1. Create a simple dynamic website which has the following specs.
 
@@ -16,6 +11,8 @@ current balance etc. Transfers table will record all transfers happened.
 
 5. Host the website at 000webhost, github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 
-# Click this link to visit the Website:
-
-https://vigilant-meitner-a0b703.netlify.app/
+This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
+  1. Internship Category - Web Development and Design
+  2. Internship Duration - 1 Month (June-2021)
+  3. Internship Type - Work from Home
+ 
